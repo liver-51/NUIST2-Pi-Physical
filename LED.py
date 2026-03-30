@@ -1,3 +1,6 @@
+# Name: Jenny Xie
+# Date: 2026-03-30
+# Description: Control LED on Raspberry Pi GPIO18
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
